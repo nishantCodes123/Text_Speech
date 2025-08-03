@@ -18,7 +18,7 @@ A simple and elegant web app that converts text into spoken speech using the **W
 
 ## 📸 Preview
 
-<img width="1159" height="757" alt="Screenshot 2025-08-03 124218" src="https://github.com/user-attachments/assets/8d4fda0a-1e14-436a-8554-3eb16cd7ab05" />
+<img width="985" height="457" alt="Screenshot 2025-08-03 124218" src="https://github.com/user-attachments/assets/8d4fda0a-1e14-436a-8554-3eb16cd7ab05" />
 
 
 ---
@@ -35,4 +35,30 @@ A simple and elegant web app that converts text into spoken speech using the **W
 ---
 
 ## 📂 Project Structure
+Text_Speech/
+│
+├── index.html # Main HTML file
+├── style.css # Styles and layout
+├── script.js # JavaScript logic for speech
+└── images/ # UI assets
 
+## 🧠 How It Works
+
+1. You type anything into the text box.
+2. Browser loads available voices via `speechSynthesis.getVoices()`.
+3. You select your preferred voice from the dropdown.
+4. Click **Listen** and the browser speaks your text using `SpeechSynthesisUtterance`.
+
+## 📈 Future Improvements
+
+- 🎚️ Add pitch, rate, and volume controls
+- 🌗 Add dark/light theme toggle
+- 📱 Make fully responsive for mobile
+- 🔊 Add option to download speech as audio
+
+---
+
+## 🙋‍♂️ Author
+
+**Nishant Dey**  
+🔗 GitHub: [@nishantCodes123](https://github.com/nishantCodes123)
