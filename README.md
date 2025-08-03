@@ -2,7 +2,7 @@
 
 A simple and elegant web app that converts text into spoken speech using the **Web Speech API**. Built with ❤️ using **HTML**, **CSS**, and **JavaScript**.
 
-> 🔗 Live Demo (optional): [https://nishantCodes123.github.io/Text_Speech]((https://text-speech-snowy.vercel.app/))
+🔗 Live Demo: [https://text-speech-snowy.vercel.app/](https://text-speech-snowy.vercel.app/)
 
 ---
 
